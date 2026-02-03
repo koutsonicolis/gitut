@@ -1,1 +1,2 @@
 Print("hej")
+Print ("hej")
